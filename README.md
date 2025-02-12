@@ -1,7 +1,7 @@
-#My Learning Journey
+My Learning Journey
 I am continuously expanding my knowledge in data analysis, working on various projects and learning new techniques daily. Below is an overview of my recent projects and topics of study.
 
-##📊 Data Analysis Projects
+📊 Data Analysis Projects
 1. Budget Allocations dataset
 Analyzing budget distribution and expenditures, visualizing financial data to gain insights into spending patterns.
 
